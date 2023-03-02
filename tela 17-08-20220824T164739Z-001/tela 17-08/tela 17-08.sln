@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tela 17-08", "tela 17-08.csproj", "{AD40CAD8-F2B0-4D10-B7B3-09805DA8FD1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD40CAD8-F2B0-4D10-B7B3-09805DA8FD1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD40CAD8-F2B0-4D10-B7B3-09805DA8FD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD40CAD8-F2B0-4D10-B7B3-09805DA8FD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD40CAD8-F2B0-4D10-B7B3-09805DA8FD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE093514-D7A1-4C05-874E-AE08CCAE5BB6}
+	EndGlobalSection
+EndGlobal

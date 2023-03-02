@@ -1,0 +1,176 @@
+C:\Users\gustavo.gfsilva2\source\repos\tela 17-08\bin\Debug\tela 17-08.exe.config
+C:\Users\gustavo.gfsilva2\source\repos\tela 17-08\bin\Debug\tela 17-08.exe
+C:\Users\gustavo.gfsilva2\source\repos\tela 17-08\bin\Debug\tela 17-08.pdb
+C:\Users\gustavo.gfsilva2\source\repos\tela 17-08\obj\Debug\tela 17-08.csproj.AssemblyReference.cache
+C:\Users\gustavo.gfsilva2\source\repos\tela 17-08\obj\Debug\tela 17-08.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.gfsilva2\source\repos\tela 17-08\obj\Debug\tela_17_08.Properties.Resources.resources
+C:\Users\gustavo.gfsilva2\source\repos\tela 17-08\obj\Debug\tela 17-08.csproj.GenerateResource.cache
+C:\Users\gustavo.gfsilva2\source\repos\tela 17-08\obj\Debug\tela 17-08.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.gfsilva2\source\repos\tela 17-08\obj\Debug\tela 17-08.exe
+C:\Users\gustavo.gfsilva2\source\repos\tela 17-08\obj\Debug\tela 17-08.pdb
+C:\Users\gustavo.gfsilva2\source\repos\tela 17-08\obj\Debug\tela_17_08.Menu.resources
+C:\Users\gustavo.gfsilva2\source\repos\tela 17-08\obj\Debug\tela_17_08.cadcurso.resources
+C:\Users\gustavo.gfsilva2\source\repos\tela 17-08\obj\Debug\tela_17_08.cadaluno.resources
+C:\Users\gustavo.gfsilva2\source\repos\tela 17-08\obj\Debug\tela_17_08.Cadastro_Aluno_Curso.resources
+C:\Users\User\Desktop\projeto\tela 17-08-20220819T203729Z-001\tela 17-08\bin\Debug\tela 17-08.exe.config
+C:\Users\User\Desktop\projeto\tela 17-08-20220819T203729Z-001\tela 17-08\bin\Debug\tela 17-08.exe
+C:\Users\User\Desktop\projeto\tela 17-08-20220819T203729Z-001\tela 17-08\bin\Debug\tela 17-08.pdb
+C:\Users\User\Desktop\projeto\tela 17-08-20220819T203729Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\projeto\tela 17-08-20220819T203729Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\projeto\tela 17-08-20220819T203729Z-001\tela 17-08\obj\Debug\tela_17_08.Cadastro_Aluno_Curso.resources
+C:\Users\User\Desktop\projeto\tela 17-08-20220819T203729Z-001\tela 17-08\obj\Debug\tela_17_08.Menu.resources
+C:\Users\User\Desktop\projeto\tela 17-08-20220819T203729Z-001\tela 17-08\obj\Debug\tela_17_08.Properties.Resources.resources
+C:\Users\User\Desktop\projeto\tela 17-08-20220819T203729Z-001\tela 17-08\obj\Debug\tela_17_08.cadcurso.resources
+C:\Users\User\Desktop\projeto\tela 17-08-20220819T203729Z-001\tela 17-08\obj\Debug\tela_17_08.cadaluno.resources
+C:\Users\User\Desktop\projeto\tela 17-08-20220819T203729Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.GenerateResource.cache
+C:\Users\User\Desktop\projeto\tela 17-08-20220819T203729Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projeto\tela 17-08-20220819T203729Z-001\tela 17-08\obj\Debug\tela 17-08.exe
+C:\Users\User\Desktop\projeto\tela 17-08-20220819T203729Z-001\tela 17-08\obj\Debug\tela 17-08.pdb
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\tela 17-08.exe.config
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\tela 17-08.exe
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\tela 17-08.pdb
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.AssemblyReference.cache
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela_17_08.Cadastro_Aluno_Curso.resources
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela_17_08.Menu.resources
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela_17_08.Properties.Resources.resources
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela_17_08.cadcurso.resources
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela_17_08.cadaluno.resources
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.GenerateResource.cache
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.exe
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.pdb
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\Google.Protobuf.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\MySql.Data.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Buffers.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Memory.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\ZstdNet.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\Google.Protobuf.pdb
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\Google.Protobuf.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\MySql.Data.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Buffers.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Memory.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.CopyComplete
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\tela 17-08.exe.config
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\tela 17-08.exe
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\tela 17-08.pdb
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\ZstdNet.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela_17_08.Cadastro_Aluno_Curso.resources
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela_17_08.Menu.resources
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela_17_08.Properties.Resources.resources
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela_17_08.cadcurso.resources
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela_17_08.cadaluno.resources
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.GenerateResource.cache
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.CopyComplete
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.exe
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.pdb
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\tela 17-08.exe.config
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\tela 17-08.exe
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\tela 17-08.pdb
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\Google.Protobuf.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\MySql.Data.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Buffers.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Memory.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\ZstdNet.dll
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\Google.Protobuf.pdb
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\Google.Protobuf.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\MySql.Data.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Buffers.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Memory.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.AssemblyReference.cache
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela_17_08.Cadastro_Aluno_Curso.resources
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela_17_08.Properties.Resources.resources
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela_17_08.cadaluno.resources
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.GenerateResource.cache
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.CopyComplete
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.exe
+C:\Users\gustavo.gfsilva2\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.pdb
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\tela 17-08.exe.config
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\tela 17-08.exe
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\tela 17-08.pdb
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\ZstdNet.dll
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela_17_08.Cadastro_Aluno_Curso.resources
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela_17_08.Properties.Resources.resources
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela_17_08.cadaluno.resources
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.GenerateResource.cache
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.csproj.CopyComplete
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.exe
+C:\Users\User\Desktop\tela 17-08-20220824T164739Z-001-20220826T164130Z-001\tela 17-08-20220824T164739Z-001\tela 17-08\obj\Debug\tela 17-08.pdb
